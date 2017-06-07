@@ -1,4 +1,4 @@
-# ml_toolkit
+# Machine Learning Toolkit
 *The text is released under the [CC-BY-NC-ND license](https://creativecommons.org/licenses/by-nc-nd/3.0/us/legalcode). All code is released under the [MIT license](https://opensource.org/licenses/MIT). If you find this content useful, please consider supporting the work by donating to bitcoin:* 13A1gKs2Q947quUB9aMF8YiDbcTYsNL5n1
 
 Author:  *Cody Rutherford*
